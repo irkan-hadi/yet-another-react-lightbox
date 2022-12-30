@@ -7,7 +7,7 @@ import { Description } from "./Description.js";
 import { Title } from "./Title.js";
 
 export const defaultCaptionsProps = {
-    descriptionTextAlign: "start" as const,
+    descriptionTextAlign: "center" as const,
     descriptionMaxLines: 3,
 };
 
